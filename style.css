@@ -1,0 +1,151 @@
+body {
+   background-color: #fff;
+   margin-top: 0;
+}
+
+a {
+   color: #bf5749;
+}
+
+a:hover {
+   color: #bf5749;
+}
+
+.carousel-item a {
+   color: #fff;
+}
+
+.carousel-item a:hover {
+   color: #fff;
+}
+
+.navbar {
+   color: #fff;
+}
+
+.navbar a{
+   color: #fff;
+}
+
+.navbar a:hover{
+   color: #fff;
+}
+
+.write-item {
+   justify-content: center;
+}
+
+.menu-color {
+   color: #875A3B;
+}
+
+.menu-item {
+   background-color: #ffe4b5;
+   padding-top: 3em;
+   padding-bottom: 3em;
+   justify-content: center;
+   text-align: center;
+   max-width: 22em;
+   width: 100%;
+}
+
+.menu-img {
+   width: 15em;  
+}
+
+.wordpress-follow-button {
+	margin-left: 60px;
+}
+
+.posts-item {
+   padding-top: 3em;
+   padding-bottom: 3em;
+   max-width: 36em;
+}
+
+.item-1 {
+   background-image: url("clevera.jpg");
+   background-repeat: no-repeat;
+   background-size: 100%;
+   height: 45vw;
+   width: 100vw;
+   color: white;
+   padding: 0.5em;
+}
+
+.item-1-span {
+   background-color: rgb(0, 0, 0);
+   background-color: rgba(0, 0, 0, 0.5);
+   height: auto;
+   width: 50%;
+   padding: 3em;
+   margin-top: 8em;
+   margin-left: 3em;
+   max-width: 33em
+}
+
+.item-2 {
+   width: 60em;
+}
+
+.pagination a {
+   background-color: rgb(255,222,173);
+   background-color: rgba(255,222,173, 0.5);
+   color: #8b7765;
+   border: none;
+}
+
+.pagination a:hover:not(.active) {
+   background-color: #ffe4b5;
+   color: #8b7765;
+}
+
+.ksiazki {
+   width: 15em;
+   height: 20em;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.carousel-caption {
+   background-color: rgb(0, 0, 0);
+   background-color: rgba(0, 0, 0, 0.5);
+}
+
+.nav-link {
+   color: white;
+}
+
+.wspol {
+   height: 100px;
+}
+
+.nav-link:hover {
+   color: #ffe4b5;
+}
+
+.pager {
+   text-align: center;
+}
+
+#searchsubmit, #submit {
+    background-color: #875A3B;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#commentform  {
+    border: none;
+    padding: 10px;
+}
+ 
+#s  {
+    border: none;
+    padding: 10px;
+}
