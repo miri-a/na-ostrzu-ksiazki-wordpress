@@ -9,7 +9,7 @@
    Tu wpisz kilka słów o sobie.
 </p>
 <p>
-   <a href="mailto:maria.akida@naostrzuksiazki.pl">maria.akida@naostrzuksiazki.pl</a>
+   <a href="mailto:clevera@gazeta.pl">clevera@gazeta.pl</a>
 </p>
   
 <!-- O MNIE - KONIEC -->
@@ -160,6 +160,8 @@
   </a>
 </div><br><br>
 
+<!-- MÓJ TOP CZYTANYCH - START -->
+
   <p>Mój top czytanych w 2018:</p>
 
 <div id="mojTop" class="ksiazki carousel-style carousel slide" data-ride="carousel">
@@ -200,7 +202,7 @@
   </a>
 </div><br><br>
 
-<!-- W KSIĘGARNIACH - KONIEC -->
+<!-- MÓJ TOP CZYTANYCH - KONIEC -->
 
 <!-- MOJA PUBLIKACJA - START -->
 
@@ -209,7 +211,6 @@
 <img src="http://naostrzuksiazki.pl/wp-content/uploads/2019/03/35736917396_1518b53b1e.jpg" class="menu-img">
 <br><br>
 <p><a href="http://naostrzuksiazki.pl/?page_id=42" target="_blank">Dowiedz się więcej</a></p>
-<br>
 
 <!-- MOJA PUBLIKACJA - KONIEC -->
 
@@ -229,17 +230,15 @@
    <p><a href="link" target="_blank">Agora</a></p>
 <img src="http://naostrzuksiazki.pl/wp-content/uploads/2019/03/karta.jpg" class="menu-img"><br><br>
    <p><a href="link" target="_blank">Ośrodek Karta</a></p>
-   
-   <p>Chcesz nawiązać współpracę?<br>Napisz: <a href="mailto:maria.akida@naostrzuksiazki.pl">maria.akida@naostrzuksiazki.pl</a>.</p>
-      
+         
 <!-- WSPÓŁPRACUJĘ - KONIEC -->
 
 
 <!-- FACEBOOK I ZACZYTANI - START -->
 
-<p><h3 class="menu-color">Polub na Facebooku</h3></p>
+<p><h3 class="menu-color">Jestem na Facebooku</h3></p>
 
-<div class="fb-page" data-href="https://www.facebook.com/oddeskidodeskiclevera/" data-width="270" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/oddeskidodeskiclevera/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/oddeskidodeskiclevera/">Od deski do deski</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/naostrzuksiazki/" data-width="270" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/naostrzuksiazki/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/naostrzuksiazki/">Od deski do deski</a></blockquote></div>
 <br>
 
 <p><h3 class="menu-color">Przeglądam</h3></p>

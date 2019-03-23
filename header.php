@@ -64,7 +64,8 @@
   
   <div class='item-1-span'>
     <h1>
-      <a href="/"><?php echo get_bloginfo( 'name' ); ?></a><br>
+      <p class="header-text">
+		<a href="/"><?php echo get_bloginfo( 'name' ); ?></a></p>
       <small><?php echo get_bloginfo( 'description' ); ?></small>
     </h1>
   </div>
