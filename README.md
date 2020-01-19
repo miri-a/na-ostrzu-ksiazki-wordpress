@@ -13,4 +13,5 @@ This project is created with:
 
 ## Status
 **In progress.**
+* 19.01.20 - Added social media icons.
 * 24.03.19 - Decreased height of background photo.
