@@ -2,11 +2,11 @@
 <html lang="pl">
 <html>
 <head>
- <meta charset="utf-8"> 
+ <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <title><?php echo get_bloginfo( 'name' ); ?> - <?php echo get_bloginfo( 'description' ); ?></title>
  <link rel="icon" type="image/x-icon" href="http://naostrzuksiazki.pl/wp-content/uploads/2019/03/clevera.ico" />
- 
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136674175-1"></script>
   <script>
@@ -16,7 +16,7 @@
 
   gtag('config', 'UA-136674175-1');
   </script>
- 
+
 <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
@@ -61,12 +61,24 @@
     </div>
 
 <div class="item-1 col-xl-12 d-none d-lg-block">
-  
+
   <div class='item-1-span'>
     <h1>
       <p class="header-text">
-		<a href="/"><?php echo get_bloginfo( 'name' ); ?></a></p>
-      <small><?php echo get_bloginfo( 'description' ); ?></small>
+		<a href="/"><?php echo get_bloginfo( 'name' ); ?></a>
+      </p>
+    </h1>
+      <p class="h5"><?php echo get_bloginfo( 'description' ); ?></p>
+  </div>
+  <div class='item-1-span-2 col-md-12 col-lg-4'>
+    <h1>
+      <p>
+    <a href="https://www.facebook.com/naostrzuksiazki/"><img src="http://naostrzuksiazki.pl/wp-content/uploads/2020/01/fb.png" class="some-img"></a>
+    <a href="https://www.instagram.com/naostrzuksiazki/"><img src="http://naostrzuksiazki.pl/wp-content/uploads/2020/01/ig.png" class="some-img"></a>
+    <a href="https://www.youtube.com/channel/UCImE-KRIXO3uwe2o0-Uj-yQ"><img src="http://naostrzuksiazki.pl/wp-content/uploads/2020/01/yt.png" class="some-img"></a>
+    <a href="http://lubimyczytac.pl/profil/1846574/maria-akida"><img src="http://naostrzuksiazki.pl/wp-content/uploads/2020/01/lc.png" class="some-img"></a>
+    <a href="https://pl.pinterest.com/akidamaria/"><img src="http://naostrzuksiazki.pl/wp-content/uploads/2020/01/pint.png" class="some-img"></a>
+      </p>
     </h1>
   </div>
 </div>
